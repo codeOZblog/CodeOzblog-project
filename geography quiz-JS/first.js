@@ -1,4 +1,4 @@
-
+alert("Welcome to geography quiz")
 //default value for score variable, with every new correct answer value will be higher for 1
 var score = 0;
 //these are my quiz question, toUpperCase are here to ensure even a lower case responses pass the tast

@@ -1,0 +1,22 @@
+body {
+    background-image: url("quiz.jpg");
+    background-repeat: no-repeat;
+}
+.prva{
+    background-color: darkblue;
+    width: 70%;
+    height: 90px;
+    border: 1px solid white;
+    position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1 {
+    color:white;
+    font-size: 48px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90px;
+    margin:auto;
+}
